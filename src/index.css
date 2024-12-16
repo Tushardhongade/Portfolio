@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Grey+Qo&family=Jost:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Grey+Qo&family=Jost:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'jost';
+  color: #00072D;
+ 
+}
+body{
+  background-color: #EDF9FE;
+}
+.logo{
+  font-family: 'Grey Qo';
+}
+
+.active-link {
+  font-weight: bold;
+  color: #FF0000; 
+}
+.cards{
+  border:2px solid #00072D;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
