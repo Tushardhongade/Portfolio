@@ -13,11 +13,11 @@ const Home = () => {
           <h1 className='text-5xl mb-4 font-semibold '>Tushar Dhongade</h1>
           <p className='text-2xl text-[#8391AD] leading-'>A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.</p>
           <div className='flex gap-6  mt-6'>
-            <a href="https://github.com/Tushardhongade/" ><img className='rounded-[50%]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/github.png" height='50px' width='50px' alt="Profile" /></a>
-            <a href="https://www.linkedin.com/in/tushar-dhongade-4ba929312/" ><img className='rounded-[50%]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/linkedin.webp" height='50px' width='50px' alt="Profile" /></a>
+            <a href="https://github.com/Tushardhongade/" ><img className='rounded-[50%]' src="https://yt3.googleusercontent.com/PKRBxhCiGa8Y0vPmHa1E2cdjpLhUq2Pl-gESwP7kk2plGgxLdsbjyTd9VjcJwBMiY0HQ8bvx5Q=s900-c-k-c0x00ffffff-no-rj" height='50px' width='50px' alt="Profile" /></a>
+            <a href="https://www.linkedin.com/in/tushar-dhongade-4ba929312/" ><img className='rounded-[50%]' src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" height='50px' width='50px' alt="Profile" /></a>
             <a href="https://www.youtube.com/channel/UC1yYU_kyaenJRkmvSPXambw" ><img className='rounded-[50%] bg-[#FF0000]' src="https://static.vecteezy.com/system/resources/thumbnails/018/930/575/small_2x/youtube-logo-youtube-icon-transparent-free-png.png" height='50px' width='50px' alt="Profile" /></a>
-            <a href="mailto:tushardhongade615@gmail.com" ><img className='rounded-[50%]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/gmail.png" height='50px' width='50px' alt="Profile" /></a>
-            <a href="https://www.instagram.com/tusha_r9__7___3/" ><img className='rounded-[50%]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/insta.webp" height='50px' width='50px' alt="Profile" /></a>
+            <a href="mailto:tushardhongade615@gmail.com" ><img className='rounded-[50%]' src="https://static.vecteezy.com/system/resources/previews/042/165/820/non_2x/gmail-icon-transparent-free-png.png" height='50px' width='50px' alt="Profile" /></a>
+            <a href="https://www.instagram.com/tusha_r9__7___3/" ><img className='rounded-[50%]' src="https://static.vecteezy.com/system/resources/previews/042/387/654/non_2x/instagram-button-icon-set-instagram-screen-social-media-and-social-network-interface-template-stories-user-button-symbol-sign-logo-stories-liked-editorial-free-png.png" height='50px' width='50px' alt="Profile" /></a>
           </div>
           <button className='bg-[#00072D] text-white rounded-md px-6 py-2 mt-8 text-xl'>
           ⭐ Star Me On Github
@@ -34,7 +34,7 @@ const Home = () => {
       <div className='flex justify-between items-center mt-20  w-full h-[100vh]'>
 
         <div className='w-[50%] '>
-          <img src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/Frontend.png" height='500px' width='500px' alt="Profile" />
+          <img src="https://www.freepik.com/free-vector/hand-drawn-man-working-from-home_12065244.htm#fromView=keyword&page=1&position=4&uuid=8c601f75-ec16-4f36-b3d5-42031c66b2a2&query=Free+svg" height='500px' width='500px' alt="Profile" />
         </div>
 
 
@@ -42,11 +42,11 @@ const Home = () => {
           <h3 className='text-4xl font-normal ' >Frontend Developer</h3>
           <div>
             <div className='flex gap-4 mt-6'>
-              <img className="rounded-[50%]" src="https://github.com/Tushardhongade/Portfolio/tree/main/src/Imgs/icons/html.png" height='70px' width='70px' alt="" />
-              <img src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/css.png" height='70px' width='70px' alt="Profile" />
-              <img src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/js.png" height='70px' width='70px' alt="Profile" />
-              <img src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/bootstrap.png" height='70px' width='70px' alt="Profile" />
-              <img src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/React.png" height='70px' width='70px' alt="Profile" />
+              <img className="rounded-[50%]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dperVCVozb1YpnSN0u_hBFYCX6ayxjzVVQ&s" height='70px' width='70px' alt="" />
+              <img src="https://img.icons8.com/color/512/css3.png" height='70px' width='70px' alt="Profile" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height='70px' width='70px' alt="Profile" />
+              <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height='70px' width='70px' alt="Profile" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height='70px' width='70px' alt="Profile" />
               
             </div>
           </div>
