@@ -5,7 +5,7 @@ const Card = () => {
     <div className='w-full flex justify-start px-[63px] flex-col items-center mt-12 mb-12 flex-wrap'>
         <div className='mt-4 p-2 w-full flex items-center  justify-between'>
             <div>
-                <img src="https://github.com/Tushardhongade/Portfolio/tree/main/src/Imgs/dyplogo.png" alt="" className='me-2'/>
+                <img src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/dyplogo.png" alt="" className='me-2'/>
             </div>
             <div className="flex justify-around items-start flex-col  p-5 px-10 rounded-lg w-[80%] h-[400px] cards">
                 <div className='bg-[#00072D] rounded-lg p-2'>
@@ -23,7 +23,7 @@ const Card = () => {
         </div>
         <div className='mt-4 p-2 w-full flex items-center  justify-between'>
             <div>
-                <img src="https://github.com/Tushardhongade/Portfolio/tree/main/src/Imgs/logo.png" alt="" className='h-50 w-56 me-2'/>
+                <img src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/logo.png" alt="" className='h-50 w-56 me-2'/>
             </div>
             <div className="flex justify-around items-start flex-col p-5 px-10 rounded-lg w-[80%] h-[400px] cards">
                 <div className='bg-[#00072D] rounded-lg p-2'>
