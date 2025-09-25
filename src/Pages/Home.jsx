@@ -24,7 +24,7 @@ const Home = () => {
           </button>
         </div>
         <div className='w-[50%] '>
-          <img src="https://drive.google.com/drive/folders/1gdWyQrDutc9F12wXWq63jKlMMq5rP8xH" height='900px' width='900px' alt="Profile" />
+          <img src="https://zweimall.com/wp-content/uploads/2025/03/have_an_idea_make_it_happen.png" height='900px' width='900px' alt="Profile" />
         </div>
         
 
