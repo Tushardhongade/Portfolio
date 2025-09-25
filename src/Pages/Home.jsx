@@ -34,7 +34,7 @@ const Home = () => {
       <div className='flex justify-between items-center mt-20  w-full h-[100vh]'>
 
         <div className='w-[50%] '>
-          <img src="https://www.freepik.com/free-vector/hand-drawn-man-working-from-home_12065244.htm#fromView=keyword&page=1&position=4&uuid=8c601f75-ec16-4f36-b3d5-42031c66b2a2&query=Free+svg" height='500px' width='500px' alt="Profile" />
+          <img src="https://github.com/Tushardhongade/Portfolio/blob/main/public/vite.svg" height='500px' width='500px' alt="Profile" />
         </div>
 
 
