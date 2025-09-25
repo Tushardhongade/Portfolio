@@ -34,7 +34,7 @@ const Home = () => {
       <div className='flex justify-between items-center mt-20  w-full h-[100vh]'>
 
         <div className='w-[50%] '>
-          <img src="https://github.com/Tushardhongade/Portfolio/blob/main/public/vite.svg" height='500px' width='500px' alt="Profile" />
+          <img src="../public/vite.svg" height='500px' width='500px' alt="Profile" />
         </div>
 
 
