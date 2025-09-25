@@ -24,7 +24,7 @@ const Home = () => {
           </button>
         </div>
         <div className='w-[50%] '>
-          <img src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/feeling_proud.svg" height='900px' width='900px' alt="Profile" />
+          <img src="https://drive.google.com/drive/folders/1gdWyQrDutc9F12wXWq63jKlMMq5rP8xH" height='900px' width='900px' alt="Profile" />
         </div>
         
 
