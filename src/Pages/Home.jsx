@@ -15,7 +15,7 @@ const Home = () => {
           <div className='flex gap-6  mt-6'>
             <a href="https://github.com/Tushardhongade/" ><img className='rounded-[50%]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/github.png" height='50px' width='50px' alt="Profile" /></a>
             <a href="https://www.linkedin.com/in/tushar-dhongade-4ba929312/" ><img className='rounded-[50%]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/linkedin.webp" height='50px' width='50px' alt="Profile" /></a>
-            <a href="https://www.youtube.com/channel/UC1yYU_kyaenJRkmvSPXambw" ><img className='rounded-[50%] bg-[#FF0000]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/youtube.png" height='50px' width='50px' alt="Profile" /></a>
+            <a href="https://www.youtube.com/channel/UC1yYU_kyaenJRkmvSPXambw" ><img className='rounded-[50%] bg-[#FF0000]' src="https://static.vecteezy.com/system/resources/thumbnails/018/930/575/small_2x/youtube-logo-youtube-icon-transparent-free-png.png" height='50px' width='50px' alt="Profile" /></a>
             <a href="mailto:tushardhongade615@gmail.com" ><img className='rounded-[50%]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/gmail.png" height='50px' width='50px' alt="Profile" /></a>
             <a href="https://www.instagram.com/tusha_r9__7___3/" ><img className='rounded-[50%]' src="https://github.com/Tushardhongade/Portfolio/blob/main/src/Imgs/icons/insta.webp" height='50px' width='50px' alt="Profile" /></a>
           </div>
